@@ -9,5 +9,5 @@
   - [Week 3 - PA 2 - Trigger Word Detection](https://github.com/rpragides/sequence_models/blob/main/W3A2/Trigger_word_detection_v2a.ipynb)
   - [Week 4 - PA 1 - Transformer Network](https://github.com/rpragides/sequence_models/blob/main/W4A1/C5_W4_A1_Transformer_Subclass_v1.ipynb) 
   - [Week 4 - UGPA 2 - Transformer Network Application: Named-Entity Recognition](https://github.com/rpragides/sequence_models/blob/main/W4A2_UGL/Transformer_application_Named_Entity_Recognition.ipynb) 
-  - [Week 4 - UGPA 3 - Transformer Network Application: Question Answering]()
+  - Week 4 - UGPA 3 - Transformer Network Application: Question Answering
   
